@@ -29,3 +29,5 @@ describe('Practice01 - Validate Google Home Page', () => {
         cy.url().should("contain", "q=artificial+intelligence");
       })
   });
+
+  
