@@ -29,9 +29,9 @@ const { exec } = require('child_process');
 //   cy.exec('npm run build')
 // })
 
-beforeEach(() => {
-  cy.visit(`${Cypress.env('SITE_URL')}/frontend`);
-});
+//beforeEach(() => {
+//  cy.visit(`${Cypress.env('SITE_URL')}/frontend`);
+//});
 
 // after(() => {
 //   exec('npm run close')
