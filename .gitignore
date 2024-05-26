@@ -4,4 +4,4 @@ dist/
 .DS_Store
 .idea
 .vscode/*
-cypress\reports\html\videos/*
+cypress\videos/*
