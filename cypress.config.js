@@ -30,7 +30,7 @@ module.exports = defineConfig({
       require('@cypress/grep/src/plugin')(config)
       return config
     },
-    baseUrl: 'https://techglobal-training.com',
+    //baseUrl: 'https://techglobal-training.com',
     video: true
   },
 })
